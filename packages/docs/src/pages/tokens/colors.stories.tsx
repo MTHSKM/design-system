@@ -7,9 +7,9 @@ export default {
 
 export function Tokens() {
   return (
-    <div style={{ fontFamily: 'Roboto' }}>
+    <div style={{ fontFamily: 'Roboto', color: '#FFF' }}>
       <h1 style={{ fontWeight: 'bolder' }}>Colors</h1>
-      <p>Essas são as cores utilizadas no Ignite UI.</p>
+      <p>Essas são as Colors utilizadas no Ignite UI.</p>
       <ColorsGrid></ColorsGrid>
     </div>
   )
