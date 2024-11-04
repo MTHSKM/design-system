@@ -79,6 +79,7 @@ var radii = {
 };
 
 // src/fonts.ts
+var import_css2_family_Roboto_wght_400_500_700_display_swap = require("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 var fonts = {
   default: "Roboto, sans-serif",
   code: "monospace"
