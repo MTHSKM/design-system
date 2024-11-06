@@ -12,6 +12,17 @@
             "dependsOn": [
                 "^build" 
             ]
+        },
+        "lint": {
+            "cache": false,
+            "dependsOn": ["^lint"],
+            "inputs": [
+                "src/**/*.ts",
+                "src/**/*.tsx",
+                "*.json",
+                ".eslintrc.json",
+                "src/**/*.mdx"
+            ]
         }
     }
 }
