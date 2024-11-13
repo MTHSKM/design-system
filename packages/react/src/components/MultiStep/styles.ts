@@ -25,9 +25,9 @@ export const Step = styled('div', {
 
   variants: {
     active: {
-        true: {
-            backgroundColor: '$gray100',
-        }
-    }
-  }
+      true: {
+        backgroundColor: '$gray100',
+      },
+    },
+  },
 })
