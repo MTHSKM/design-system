@@ -6,6 +6,16 @@ export default {
   component: Heading,
   args: {
     children: 'Custom Title',
+    size: 'md',
+  },
+  argTypes: {
+    size: {
+      // eslint-disable-next-line prettier/prettier
+      options: ['sm','md','lg','2xl','4xl','5xl','6xl'],
+      control: {
+        type: 'inline-radio',
+      },
+    },
   },
 } as Meta<HeadingProps>
 
