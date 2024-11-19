@@ -1,5 +1,11 @@
 # @aulas-rocketseat-design-system/react
 
+## 2.1.0
+
+### Minor Changes
+
+- Add solution to Desafio 05 - Design System
+
 ## 2.0.1
 
 ### Patch Changes
