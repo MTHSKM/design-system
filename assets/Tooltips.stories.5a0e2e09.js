@@ -1,0 +1,2 @@
+import{e as t,B as s,T as e}from"./index.02b0c9ff.js";import{j as o}from"./jsx-runtime.b3cc8cb4.js";import"./index.fb6b0de3.js";import"./iframe.16247353.js";import"./index.b2a948bc.js";const c={title:"Surfaces/Tooltips",component:t,args:{children:o(s,{children:"Day"}),content:"This is a tooltip."},argTypes:{children:{control:{type:null}}},decorators:[r=>o(e,{css:{display:"flex",gap:"$2"},children:r()})]},m={},d=["Primary"];export{m as Primary,d as __namedExportsOrder,c as default};
+//# sourceMappingURL=Tooltips.stories.5a0e2e09.js.map

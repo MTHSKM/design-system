@@ -1,0 +1,2 @@
+import{A as t}from"./index.02b0c9ff.js";import"./index.fb6b0de3.js";import"./iframe.16247353.js";import"./jsx-runtime.b3cc8cb4.js";import"./index.b2a948bc.js";const p={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/MTHSKM.png",alt:"Matheus Kim"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.8e960ff2.js.map
