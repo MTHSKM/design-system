@@ -1,4 +1,9 @@
-import { Box, Text, Checkbox, CheckboxProps } from '@aulas-rocketseat-design-system/react'
+import {
+  Box,
+  Text,
+  Checkbox,
+  CheckboxProps,
+} from '@aulas-rocketseat-design-system/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {
