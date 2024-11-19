@@ -1,7 +1,6 @@
 import {
   Tooltip,
   TooltipProps,
-  Button,
   Box,
   Text,
 } from '@aulas-rocketseat-design-system/react'
